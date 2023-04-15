@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"bookCRUD/controllers"
+	"github.com/rawello/goCRUD/controllers"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
