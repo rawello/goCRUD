@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bookCRUD/models"
-	"bookCRUD/routes"
+	"github.com/rawello/goCRUD/models"
+	"github.com/rawello/goCRUD/routes"
 )
 
 func main() {
